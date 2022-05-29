@@ -7,6 +7,7 @@ load_dotenv()
 SHEETY_PRICES_ENDPOINT = os.getenv('SHEETY_PRICES_ENDPOINT')
 SHEETY_USERS_ENDPOINT = os.getenv('SHEETY_USERS_ENDPOINT')
 
+"TEST"
 
 class DataManager:
 
